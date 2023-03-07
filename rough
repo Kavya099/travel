@@ -1,0 +1,53 @@
+<div class="box-container">
+        <div class="box">
+            <img src="images/image1.jpg" height="400" width="400">
+            <div class="content">
+                <h3><i class="fas fa-map-marker-alt"></i>Golden triangular tour</h3>
+                <p>Golden triangular tour </p>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+            <div class="price">$90.00<span>$120.00</span></div>
+            <a href="#" class="btn">book now</a>
+        </div>
+    </div>
+
+    <div class="box-container">
+        <div class="box">
+            <img src="images/image6.jpeg">
+            <div class="content">
+                <h3><i class="fas fa-map-marker-alt"></i></h3><br>
+                <p>Best of Rajasthan Tour</p>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+            <div class="price">$90.00<span>$120.00</span></div>
+            <a href="#" class="btn">book now</a>
+        </div>
+    </div>
+
+    <div class="box-container">
+        <div class="box">
+            <img src="images/image3.jpeg">
+            <div class="content">
+                <h3><i class="fas fa-map-marker-alt"></i></h3>
+                <p>Central India Tour</p>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+            <div class="price">$90.00<span>$120.00</span></div>
+            <a href="#" class="btn">book now</a>
+        </div>
+    </div>
+    <br><br><br><br><br><br>
+    <div><a href="#" class="btn">more</a></div>
+</section>
