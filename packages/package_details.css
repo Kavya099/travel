@@ -1,0 +1,52 @@
+body{
+  background-color: darkkhaki;
+}
+body h3{
+  text-align: center;
+}
+.container{
+  padding: 100px;
+}
+.accordion {
+  background-color: darkolivegreen;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: solid 1px lightgray;
+  text-align: left;
+  outline: none;
+  font-size: 17px;
+  transition: 0.5s;
+}
+.active, .accordion:hover {
+  /* active class will be use in javascript */
+  background-color:rgb(53, 53, 53);
+}
+/* Adding font awesome icones in CSS code */
+.accordion:after {
+  font-family: "Font Awesome 5 Free";
+   content: "\f13a";
+   font-weight: 900;
+  float: right;
+  margin-right: 10px;
+}
+.active:after {
+  font-family: "Font Awesome 5 Free";
+   content: "\f139";
+   font-weight: 900;
+  float: right;
+  margin-right: 10px;
+  color: chartreuse;
+}
+.panel {
+  padding: 0px 18px;
+  background-color: rgb(236, 236, 236);
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease-out;
+}
+button i {
+  margin-right: 6px ;
+  font-size: 20px;
+}

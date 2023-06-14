@@ -1,0 +1,24 @@
+.img {
+    width:250px;
+    height:230px;
+    float: left;
+    margin-right: 25px;
+    padding: 5px;
+}
+
+.pck {
+    display: block;
+    padding: 25px;
+    background-color:burlywood;
+}
+
+.list {
+    list-style-type: circle;
+    margin-left: 340px;
+}
+
+.button {
+    border-radius: 5px;
+    float: right;
+    background-color: chocolate;
+}

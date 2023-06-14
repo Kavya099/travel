@@ -429,3 +429,22 @@ section{
 }
 
 
+
+
+/* Made with love by Mutiullah Samim*/
+
+
+
+form
+{
+    background-color: #ffa500;
+    width:max-content;
+}
+
+form ul{
+    margin-top: 2rem;
+    margin-bottom: 25rem;
+    align-items: center;
+    margin-right: 25rem;
+
+}
